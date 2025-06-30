@@ -14,9 +14,9 @@
           "deprecated": false,
           "category": "Arduino",
           "url": "https://github.com/MythicalSheep/R7FA4M1-Custom/blob/main/R7FA4M1_PT.zip",
-          "archiveFileName": "ArduinoCore-renesas_uno-1.4.1.tar.bz2",
-          "checksum": "SHA-256:9b50bbf31dda95a072b4284d56d965ce6d8cf570d0ebe99c4a5943ee820ee5ca",
-          "size": "10304192",
+          "archiveFileName": "R7FA4M1_PT.zip",
+          "checksum": "EC09B6E648A4B0C814C044B1DA37A918",
+          "size": "15080956",
           "boards": [
             {
               "name": "Arduino R7FA4M1_PT"
