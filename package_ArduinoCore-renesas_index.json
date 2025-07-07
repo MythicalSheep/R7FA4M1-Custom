@@ -10,14 +10,14 @@
       },
       "platforms": [
         {
-          "name": "PT Minima Boards",
+          "name": "PT Motorsport Custom Boards",
           "architecture": "renesas_uno",
           "version": "1.0.0",
           "category": "Arduino",
-          "url": "http://downloads.arduino.cc/cores/staging/%%FILENAME_UNO%%",
-          "archiveFileName": "%%FILENAME_UNO%%",
-          "checksum": "SHA-256:%%CHECKSUM_UNO%%",
-          "size": "%%SIZE_UNO%%",
+          "url": "https://github.com/MythicalSheep/R7FA4M1-Custom/blob/main/1.4.1.zip",
+          "archiveFileName": "1.4.1.zip",
+          "checksum": "SHA-256:49991BD0A4DE237B1F6637644A1CD4256FCF6B6920ABA57F0D7F95DC0EEB2299",
+          "size": "20978813",
           "help": {
             "online": "https://github.com/arduino/ArduinoCore-renesas/issues"
           },
@@ -29,7 +29,7 @@
               "name": "Arduino UNO R4 WiFi"
             },
 	    {
-              "name": "Minima PT"
+              "name": "RA4M1 PT MoSpoCo"
             }
           ],
           "toolsDependencies": [
